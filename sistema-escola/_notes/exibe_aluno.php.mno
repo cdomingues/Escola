@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_LiveData_params" value="1" />
+	<infoitem key="UD_LiveData_param0" value="recordID=1" />
+	<infoitem key="UD_DetailRS1" value="name:RGM;datatype:int,name:Nome;datatype:string,name:Sexo;datatype:string,name:NLocal;datatype:string,name:registro;datatype:string,name:NEs;datatype:string,name:NCert;datatype:real,name:NFolha;datatype:string,name:NLivro;datatype:string,name:NEmiss;datatype:date,name:RG;datatype:string,name:RGEs;datatype:string,name:RGEmiss;datatype:string,name:Cor;datatype:string,name:Nasc;datatype:date,name:Pai;datatype:string,name:Mae;datatype:string,name:Endereco;datatype:string,name:Nu;datatype:real,name:Comp;datatype:string,name:Bairro;datatype:string,name:Cidade;datatype:string,name:Telefone;datatype:string,name:TelRec;datatype:string,name:contato;datatype:string,name:Celular;datatype:string,name:NesEsp;datatype:string,name:NesDESC;datatype:string,name:BolsaF;datatype:string,name:EsAnterior;datatype:string,name:RA;datatype:string,name:Classe;datatype:string,name:Periodo;datatype:string" />
+	<infoitem key="UD_DetailRS2" value="name:RGM;datatype:int,name:Nome;datatype:string,name:RA;datatype:string,name:Classe;datatype:string,name:Periodo;datatype:string" />
+</info>
